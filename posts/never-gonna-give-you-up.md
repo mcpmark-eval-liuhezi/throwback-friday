@@ -25,8 +25,8 @@ Watch the official video here: [Rick Astley – Never Gonna Give You Up (Officia
 
 The header banner for this post was generated with a fixed seed, so the exact image is reproducible.
 
-- **Prompt:** A singer in a trench coat on a neon-lit 1980s dance floor, grainy retro-VHS feel
-- **Aspect ratio:** 16:9 (requested at 1280×720; the generator returned 1024×576, the same 16:9 ratio)
+- **Prompt:** A wide 16:9 cinematic still of a retro male pop singer in a 1980s trench coat dancing on a neon-lit dance floor, grainy retro-VHS feel, retro 80s aesthetic, saturated neon lighting, chroma-streak glow
+- **Aspect ratio:** 16:9 (the generator renders it at 1024×576, the same 16:9 ratio)
 - **Seed:** 1987
 
-Reproduce the banner with the exact prompt and seed above — one line of it reads: `A singer in a trench coat on a neon-lit 1980s dance floor, grainy retro-VHS feel` at 16:9, seed `1987`. Seed 1987 is a nod to the year the song was released.
+Reproduce the banner with the exact prompt above and seed `1987`: the same prompt with seed `1987` renders at 16:9 and returns this exact image.
